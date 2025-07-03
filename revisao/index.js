@@ -1,20 +1,15 @@
-const elementos = [
-    {tag: 'p', texto: 'Frase 1'},
-    {tag: 'div', texto: 'Frase 2'},
-    {tag: 'footer', texto: 'Frase 3'},
-    {tag: 'section', texto: 'Frase 4'},
-];
+const parOuImpar = (numero) => {
+    if(numero % 2 == 0){
+        return `${numero} é par`;
+    }
 
-const container =  document.querySelector('.container');
-const div = document.createElement('div');
-
-for(i = 0; i < elementos.length; i++){
-    const { tag, texto } = elementos[i];
-    const criaTag = document.createElement(tag);
-    const criaTexto = document.createTextNode(texto);
-
-    criaTag.appendChild(criaTexto);
-    div.appendChild(criaTag);
+    else{
+        return`${numero} é ímpar`;
+    }
 }
 
-container.appendChild(div);
+console.log(parOuImpar(6))
+console.log(parOuImpar(7))
+console.log(parOuImpar(7890))
+console.log(parOuImpar(501))
+console.log(parOuImpar(4))
