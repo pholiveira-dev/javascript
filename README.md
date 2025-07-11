@@ -31,6 +31,7 @@ Este repositório é dedicado ao meu aprendizado contínuo de **JavaScript**. Es
 - ✅ Arrays e métodos (`map`, `filter`, `reduce`, etc.)  
 - ✅ Objetos  
 - ✅ Manipulação de datas  
+- 🔄 Programação Orientada a Objetos - POO
 
 ## 🛠️ Tecnologias
 
