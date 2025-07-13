@@ -32,6 +32,10 @@ Este repositório é dedicado ao meu aprendizado contínuo de **JavaScript**. Es
 - ✅ Objetos  
 - ✅ Manipulação de datas  
 - 🔄 Programação Orientada a Objetos - POO
+- 🔄 JavaScript assíncrono (Promises, Ajax, Fetch e Async/Await)
+- 🔄 JavaScript Tooling e ES6 Modules - Módulos
+- 🔄 JavaScript - Node, Npm, Express e MongoDB (NodeJS)
+- 🔄 JavaScript + Node - Projeto real
 
 ## 🛠️ Tecnologias
 
