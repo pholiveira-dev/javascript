@@ -40,7 +40,9 @@ Este repositório é dedicado ao meu aprendizado contínuo de **JavaScript**. Es
 ## 🛠️ Tecnologias
 
 - JavaScript (Vanilla JS)
+- MongoDB (futuramente)
 - Node.js (futuramente)
+- Express (futuramente)
 - VS Code
 
 ---
